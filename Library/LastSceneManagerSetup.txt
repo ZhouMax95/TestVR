@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/HTC.UnityPlugin/ViveInputUtility/Examples/2.2DDragDrop/2DDragDrop.unity
+  isLoaded: 1
+  isActive: 1
